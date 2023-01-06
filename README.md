@@ -23,7 +23,7 @@ Create a connection between local repository and remote repository
 <br/>
 Command : git remote add origin "https://github...." 
 
-#Save changes to Git :
+# Save changes to Git :
 
 1)git status
 2) git add .
